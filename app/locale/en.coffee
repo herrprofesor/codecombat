@@ -1293,6 +1293,7 @@
     assign_to_selected_students: "Assign to Selected Students"
     assigned: "Assigned"
     enroll_selected_students: "Enroll Selected Students"
+    cant_assign_to_unenrolled: "Course cannot be assigned to students who are not enrolled."
 
     guides_coming_soon: "Guides coming soon!" # Courses
 
